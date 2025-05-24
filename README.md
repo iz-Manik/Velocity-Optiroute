@@ -26,8 +26,8 @@ Welcome to the realm of **Smart Adaptive Traffic Management**! This revolutionar
 
 ## Demo Videos 🎬
 - **Admin GUI:**
-  
-https://github.com/shubham001official/Smart-Adaptive-Traffic-Management-System/assets/109148746/1e120012-1831-4b09-acef-fa0b5424aec6
+
+https://youtu.be/Aq8T_ArZ0w4
 
 - Delve into the functional and witness the convergence of technology and transportation management. Experience firsthand the fluidity of live traffic control and monitoring.
 - **Traffic Simulation:** Immerse yourself in the captivating [Simulation Demo](simulation_demo.mp4).
@@ -50,4 +50,4 @@ For inquiries, collaboration prospects, or simply to discuss the project's nuanc
 
 🚗🚕🚙🚛🚦 Keep traffic flowing seamlessly with the transformative power of Smart Adaptive Traffic Management! 🌐🚀
 
---- 
+---
